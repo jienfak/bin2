@@ -1,0 +1,4 @@
+<../mkconfig
+TGT = int
+<../stdmkfile
+

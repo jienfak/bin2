@@ -1,0 +1,5 @@
+Converting from binary input to set of human-readable strings.
+Installation:
+	$ mk install
+By default installation happens into "$HOME/local/bin".
+To change it edit "mkconfig".
